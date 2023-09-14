@@ -30,8 +30,6 @@
 * 📑 Metas: Convertirme es una maestra del desarrollo web
 * 👥 En busca de emocionantes colaboraciones y desafíos. ¿Alguna idea en mente? ¡Estoy dentro!
 
-<br />
-
 <h3  align="center">Lenguajes , Frameworks y Entornos</h3>
 
 <br />
@@ -65,7 +63,7 @@
 
 <div align="center">
   
-  ![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=FlorPManzano&count_private=true&include_all_commits&custom_title=Mis%20Estadísticas%20en%20GitHub&show_icons=true&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4&icon_color=EB636B")
+  ![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=FlorPManzano&count_private=true&include_all_commits&custom_title=Mis%20Estadísticas%20en%20GitHub&show_icons=true&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4&icon_color=EB636B)
   
 </div>
 
