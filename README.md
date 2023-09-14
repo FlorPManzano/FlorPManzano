@@ -66,7 +66,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FlorPManzano&count_private=true&include_all_commits&custom_title=Mis Estadísticas en GitHub&show_icons=true&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4&icon_color=EB636B" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FlorPManzano&count_private=true&include_all_commits&custom_title=Mis Estadísticas en GitHub&show_icons=true&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4&icon_color=EB636B" height="160"/>
   <img src="https://streak-stats.demolab.com?user=FlorPManzano&count_private=true&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=EB636B&fire=FDBCB4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FDBCB4&dates=ffffff&currStreakLabel=EB636B" height="160"/>
 
 </div>
