@@ -63,14 +63,18 @@
 
 <br />
 
-
 <div align="center">
-
+  
   ![Mis estadísticas en GitHub](https://github-readme-stats.vercel.app/api?username=FlorPManzano&show_icons=true&theme=radical)
-  <img src="https://streak-stats.demolab.com?user=FlorPManzano&count_private=true&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=EB636B&fire=FDBCB4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FDBCB4&dates=ffffff&currStreakLabel=EB636B" height="160"/>
-
+  
 </div>
 
+<br />
+<div>
+  
+ <img src="https://streak-stats.demolab.com?user=FlorPManzano&count_private=true&theme=tokyonight-duo&hide_border=true&locale=es&background=22272EE7&ring=EB636B&fire=FDBCB4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=FDBCB4&dates=ffffff&currStreakLabel=EB636B" height="160"/>
+  
+</div>
 
 <h3 align="center">
 ¿Te gustaría husmear en mis proyectos?
