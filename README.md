@@ -18,7 +18,7 @@
   <br/>
 
   [<img src="https://img.shields.io/badge/-Flor_P._Manzano-pink?style=-square&logo=Linkedin&logoColor=white&color=EB636B&link=https://www.linkedin.com/in/florpmanzano/)">](https://www.linkedin.com/in/florpmanzano/)
-  [<img src="https://img.shields.io/badge/-Porfolio-Flor_P._Manzano-pink?style=flat-square&logo=googlechrome&logoColor=white&color=EB636B&link=https://portfolio-florpmanzano.vercel.app/)">]([https://portfolio-nannitta.vercel.app/](https://portfolio-florpmanzano.vercel.app/))
+  [<img src="https://img.shields.io/badge/-Porfolio-Flor_P._Manzano-pink?style=-square&logo=googlechrome&logoColor=white&color=EB636B&link=https://portfolio-florpmanzano.vercel.app/)">](https://portfolio-florpmanzano.vercel.app/))
 
 </div>
 
